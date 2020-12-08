@@ -1,3 +1,4 @@
+![The Project so far](https://github.com/bneedhamia/DHT22WeatherStation/blob/master/Project.jpg)
 # DHT22WeatherStation
 Temperature-and-Humidity Weather Underground station based on DHT22 (RHT03) and ESP8166 Thing Dev board
 
@@ -10,6 +11,7 @@ The Arduino Sketch requires a Sparkfun ESP8266 Thing Dev board, a DHT22 (RHT03) 
 * Diary.odt = my journal/diary of the project, with design and assembly details.
 * LICENSE = the project GPL2 license file.
 * DHT22WeatherStation.ino = the ESP8266 Arduino Sketch.
+* FritzingDiagram.jpg = a screenshot of the Fritzing diagram, for those who don't have Fritzing installed.
 * DHT22WeatherStation.fzz = the Fritzing (circuit wiring) diagram. See [Fritzing.org](http://fritzing.org)
 * Project.jpg = a photo of the project so far.
 * README.md = this file.
